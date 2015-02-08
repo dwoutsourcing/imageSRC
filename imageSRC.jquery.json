@@ -1,0 +1,40 @@
+{
+	"name": "imageSRC",
+	"version": "1.0.0",
+	"title": "jQuery Image SRC",
+	"author": {
+		"name": "dwoutsourcing",
+		"email": "dwoutsourcing@gmail.com",
+		"url": "https://github.com/dwoutsourcing"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/dwoutsourcing/imageSRC/blob/master/LICENSE"
+		}
+	],
+	"dependencies": {
+		"jquery": ">=1.5"
+	},
+	"description": "jQuery plugin to set image src attribute from either dataURL strings, File instances or string values and adding progress event.",
+	"keywords": [
+		"image",
+		"image tag",
+		"image attributes",
+		"image tag attribute",
+		"image src attribute",
+		"image progress event",
+		"image source",
+		"image load from File"
+	],
+	"maintainers": [
+		{
+			"name": "dwoutsourcing",
+			"email": "dwoutsourcing@gmail.com",
+			"url": "https://github.com/dwoutsourcing"
+		}
+	],
+	"bugs": "https://github.com/dwoutsourcing/imageSRC/issues",
+	"homepage": "https://github.com/dwoutsourcing/imageSRC",
+	"docs": "https://github.com/dwoutsourcing/imageSRC"
+}
