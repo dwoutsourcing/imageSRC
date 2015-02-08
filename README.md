@@ -3,7 +3,7 @@ imageSRC, a jQuery plugin to add any source type (either dataURL, File object or
 
 Sample usage:
 
-'''
+```
 $('img')
 	.on('progress', function(event, originalEvent, perc, loaded, total) {
 		console.log(arguments);
@@ -13,6 +13,6 @@ $('img')
 	})
 	.src(file)
 ;
-'''
+```
 
 Where file is either a File instance, a dataURL string or a string value.
