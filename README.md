@@ -16,3 +16,7 @@ $('img')
 ```
 
 Where file is either a File instance, a dataURL string or a string value.
+
+Dependencies:
+filereader jQuery extensions:https://github.com/dwoutsourcing/filereader
+xhr2 jQuery extensions: https://github.com/dwoutsourcing/xhr2
